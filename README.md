@@ -1,19 +1,22 @@
 <a name="readme-top"></a>
 
+
 <div align="center">
-   <img src="images/logo-big.png" alt="logo" width="140"  height="auto" />
-  <br/>
-  <h1><b>Catholic Music Concert - United by the same Faith</b></h1>
+
+  <h3><b>CAPSTONE PROJECT MODULE 1</b></h3>
+  <h3><b>Conference Page - Creationism vs Evolution Global Summit 2023</b></h3>
+  <img src="images/Readme.png" alt="Readme Image">
 
 </div>
 
-# 📗 Table of Contents 
+<!-- TABLE OF CONTENTS -->
 
-- [📖 About the Concert](#about-project)
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Walkthrough to the Concert Page](#walkthrough)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -27,86 +30,114 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
 
-# 📖 [Catholic Music Concert] <a name="about-project"></a>
+# 📖 Capstone Project Module 1<a name="about-project"></a>
 
-**[The Concert Page]** is a development with all the information about the **"CMC - Catholic Music Concert 2023"**
+
+**Creationism vs Evolution Global Summit 2023** is based on an online website for a conference according to design guidelines provided by Microverse. Trought this capstone project I show the main abilities adquired so far in the **Module 1 - The Portal**. In this Module I learned about HTML, CSS and an brief introduction to javaScript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+
 <details>
-  <summary>Client</summary>
+  <summary>HTML</summary>
   <ul>
-    <li><a href="https://code.visualstudio.com/">HTML</a></li>
-    <li><a href="https://www.w3.org/standards/">CSS</a></li>
+    <li>HTML</li>
   </ul>
 </details>
-  
+
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li>CSS</li>
+  </ul>
+</details>
+
+<details>
+  <summary>JavaScript</summary>
+  <ul>
+    <li>JavaScritp</li>
+  </ul>
+</details>
+<br>
+<!-- Features -->
+
 ### Key Features <a name="key-features"></a>
 
-**Enlist skill sets and tech stack**
-- Responsive design
-- Mobile First methodology
-- Walkthrough to the [Concert Page](https://www.loom.com/)
 
-### Walktrought Concert Page <a name="walktrought"></a>
-
-**Catholic Music Concert - Microverse - Capstone Project - Watch Video**
-
-[<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/165bf7bc353a424195f804718c734c7f-with-play.gif">](https://www.loom.com/share/165bf7bc353a424195f804718c734c7f)
+- Creating branches on repositories.
+- Use of linter on HTML&CSS&js projects.
+- Write a correct descriptive README file.
+- Correct use of GitHub flow.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Click [here](https://larryivc.github.io/EventPage/index.html) to live demo versión.
+
+- Here you will see a [Live Demo](https://oovillagran.github.io/Capstone_M1/) of my project.
+
+- This is the [Loom Walktrough Video](https://www.loom.com/share/1f689459a7134b71846c7d1c1bd3d778) of my project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running follow these simple example.
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-  * Visual Studio Code
-  * Browser [Chrome]
-  * Linters
+- Create a repo on your repositores files.
+- Clone or make a copy of this repo on your local machine.
+- Follow GitHub flow.
+- A carefully reading of this README.md is required.
+
 
 ### Setup
 
 Clone this repository to your desired folder:
-
-Example commands:
-
-```sh
-  cd my-folder
-  git git@github.com:LarryIVC/EventPage.git
+ 
+ ```bash
+ cd my-folder
+ git clone git@github.com:oovillagran/Portfolio-project.git
 ```
+
 ### Install
 
 Install this project with:
 
-Example command:
-
-```sh
-  npm install --save -dev
+ ```bash
+ npm install
 ```
+
 ### Usage
 
-To run the project, execute the following command:
+To run the project, you can use your favorite browser.
 
-Example command:
 
-```sh
-  npm start
+### Run tests
+
+To run tests, execute the following command:
+
+```bash
+ npx hint .
 ```
+
+### Deployment
+
+- You can use GitHub Pages to deploy this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,11 +145,26 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 ** Larry Villegas **
 
-- GitHub: [@LarryIVC](https://github.com/LarryIVC)
-- Twitter: [@LarryVillegas](https://twitter.com/LarryVillegas)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/larry-villegas-26216b259/)
+👤 **Oscar Villagran**
+
+- GitHub: [@oovillagran](https://github.com/oovillagran)
+- Twitter: [@oovillagran](https://twitter.com/oovillagran)
+- LinkedIn: [Oscar Villagran](https://www.linkedin.com/in/oovillagran/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+
+- [ ] *Use of linter in HTML&CSS&JS projects*
+- [ ] *Use README template file*
+- [ ] *Ask for a code review*
+- [ ] *Follow the guideliness for this ["Conference Page"](https://github.com/microverseinc/curriculum-html-css/blob/main/capstone/html_capstone.md) capstone project.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -128,7 +174,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/LarryIVC/portfolio/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,23 +182,24 @@ Feel free to check the [issues page](https://github.com/LarryIVC/portfolio/issue
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Help me with your criticisms and your suggestions, you will be blessed for such a noble gesture and give me a [⭐️](https://github.com/LarryIVC/EventPage/stargazers) if you like this project.
+
+If you like this project feel free to make any comment, all contributions are welcome!.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
+I would like to thank Microverse comunity. This a support family from all over the world.
 
-**I would like to thank the original design idea by [Cindy Shin in Behance](https://www.behance.net/adagio07).**
+I thank [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/) who are the owners of the license of [Cindy Shin](https://www.behance.net/adagio07) original design.
+ 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
