@@ -15,7 +15,6 @@ hamburger.addEventListener('click', () => {
   hamburger.classList.toggle('active');
   navMenu.classList.toggle('active');
   navBarMenu.classList.add('display');
-  logo.classList.add('hidden');
   main.classList.toggle('active');
   footer.classList.toggle('active');
   body.classList.add('overFlow');
