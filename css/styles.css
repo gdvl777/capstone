@@ -98,6 +98,8 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background-image: url("https://worldtabletennis.com/assets/images/banner_sgsmash.jpg");
+  background-size: cover;
 }
 
 .tittle {
@@ -144,14 +146,14 @@ h1 {
   font-size: 1.25em;
   font-weight: 900;
   line-height: 1.5em;
-  color: #272a31;
+  color: #e0e2e7;
 }
 
 .site {
   font-size: 0.81em;
   font-weight: 700;
   line-height: 0.93em;
-  color: #272a31;
+  color: #cacccf;
 }
 
 .main-container {
@@ -496,7 +498,7 @@ footer {
 
   .tittle {
     max-width: 950px;
-    background-image: url(../images/bg-page1.png);
+    background-image: url(https://worldtabletennis.com/assets/images/Smash.png);
   }
 
   .description {
