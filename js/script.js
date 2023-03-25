@@ -101,7 +101,6 @@ speakersButton.addEventListener('click', () => {
 const hamburger = document.querySelector('.hamburger');
 const navMenu = document.querySelector('.nav-menu');
 const navBarMenu = document.querySelector('.navbar-menu');
-const logo = document.querySelector('.logo');
 const main = document.querySelector('.main');
 const footer = document.querySelector('.footer-about');
 const closeButton = document.createElement('button');
